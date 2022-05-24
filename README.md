@@ -16,8 +16,7 @@ public class Developer.Skills{
 }
 
 public class Developer.Hobbies {
-  hobbies  = ('Basketball','Games',
-              'Travel');
+  hobbies  = ('Basketball', 'Games', 'Travel');
 }
 ```
 <br /><br />
@@ -56,7 +55,6 @@ public class Developer.Hobbies {
 ## IoT
 <p>
   <img  width="38" height="38" alingn="left" src="./public/images/arduino.png" alt="Arduino" />
-  <img  width="38" height="38" alingn="left" src="./public/images/esp.png" alt="ESP" />
 </p>
 
 <br /><br />
