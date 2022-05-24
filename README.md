@@ -62,7 +62,7 @@ public class Developer.Hobbies {
 
 ---
 
-![Snake animation](https://github.com/LuisHamilton/LuisHamilton/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luishamilton/luishamilton/blob/output/github-contribution-grid-snake.svg)
 
 <br /><br />
 
