@@ -34,7 +34,8 @@ public class Developer.Hobbies {
 <p>
   <img  width="38" height="38" alingn="left" src="./public/images/javascript.png" alt="Javascript"/>
   <img  width="38" height="38" alingn="left" src="./public/images/typescript.png" alt="Typescript"/>
-  <img  width="38" height="38" alingn="left" src="./public/images/nodejs.png" alt="Nodejs"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/html.png" alt="HTML"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/css.png" alt="CSS"/>
   <img  width="38" height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
   <img  width="38" height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
   <img  width="38" height="38" alingn="left" src="./public/images/csharp.png" alt="C#" />
