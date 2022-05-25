@@ -5,7 +5,7 @@
 namespace Developer.LuisHamiton;
 
 public class Developer.AboutMe {
-  name  = 'Wallace Bescrovaine';
+  name  = 'Luis Hamilton';
   level = 19;
   area  = 'Software Engineering student';
   work  = 'Curitiba';  
