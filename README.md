@@ -11,6 +11,10 @@ public class Developer.AboutMe {
   work  = 'Developer and Analyst of System Trainee in Bosch Brasil';  
 }
 
+public class Developer.Projects {
+  UnderDevelopment = ('MarketPlace', 'C# Game', 'beneficts system for Bosch', 'Rimatur's trucks tracker')
+}
+
 public class Developer.Hobbies {
   hobbies  = ('Basketball', 'Games', 'Travel');
 }
