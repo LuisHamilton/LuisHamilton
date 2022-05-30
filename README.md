@@ -5,14 +5,10 @@
 namespace Developer.LuisHamiton;
 
 public class Developer.AboutMe {
-  name  = 'Luis Hamilton';
+  name  = 'Luis Hamilton Balem';
   level = 19;
-  area  = 'Software Engineering student';
-  work  = 'Curitiba';  
-}
-
-public class Developer.Skills{
-  skills = ('code', 'create', 'innovate');
+  study  = 'Software Engineering in Unicesumar Curitiba';
+  work  = 'Developer and Analyst of System Trainee in Bosch Brasil';  
 }
 
 public class Developer.Hobbies {
