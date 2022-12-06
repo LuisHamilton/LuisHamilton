@@ -8,7 +8,7 @@ public class Developer.AboutMe {
   name  = 'Luis Hamilton Balem';
   level = 19;
   study  = 'Software Engineering in Unicesumar Curitiba';
-  work  = 'Bosch Brasil's System Development Apprentice';  
+  work  = 'Bosch Brasil\'s System Development Apprentice';  
 }
 
 public class Developer.Projects {
