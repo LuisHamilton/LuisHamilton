@@ -8,15 +8,19 @@ public class Developer.AboutMe {
   name  = 'Luis Hamilton Balem';
   level = 19;
   study  = 'Software Engineering in Unicesumar Curitiba';
-  work  = 'Developer and Analyst of System Trainee in Bosch Brasil';  
+  work  = 'Bosch Brasil's System Development Apprentice';  
 }
 
 public class Developer.Projects {
-  UnderDevelopment = ('MarketPlace', 'C# Game', 'beneficts system for Bosch', 'Rimatur's trucks tracker')
+  UnderDevelopment = ('beauty salon management app', 'Unity Game', 'LPR system for Bosch entrance', 'dealership app for car sale')
 }
 
 public class Developer.Hobbies {
-  hobbies  = ('Basketball', 'Games', 'Travel');
+  hobbies  = ('Basketball', 'Games', 'Travel', 'Drinks creation');
+}
+
+public class Developer.Objectives {
+  Objectives = ('own apartment', 'car driving license', 'Senior Developer', 'big games creator')
 }
 ```
 <br /><br />
