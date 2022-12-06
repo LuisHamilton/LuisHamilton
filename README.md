@@ -2,25 +2,25 @@
 
 ```cs
 
-namespace Developer.LuisHamiton;
+namespace Developer;
 
 public class Developer.AboutMe {
-  name  = 'Luis Hamilton Balem';
-  level = 19;
-  study  = 'Software Engineering in Unicesumar Curitiba';
-  work  = 'Bosch Brasil\'s System Development Apprentice';  
+  Name  = "Luis Hamilton Balem";
+  Level = 19;
+  Study  = "Software Engineering in Unicesumar Curitiba";
+  Work  = "Bosch Brasil's System Development Apprentice";  
 }
 
 public class Developer.Projects {
-  UnderDevelopment = ('beauty salon management app', 'Unity Game', 'LPR system for Bosch entrance', 'dealership app for car sale')
+  UnderDevelopment = ("Unity Game", "LPR System For Bosch Entrance", "Dealership App For Car Sale");
 }
 
 public class Developer.Hobbies {
-  hobbies  = ('Basketball', 'Games', 'Travel', 'Drinks creation');
+  hobbies  = ("Basketball", "Games", "Travel", "Drinks creation");
 }
 
 public class Developer.Objectives {
-  Objectives = ('own apartment', 'car driving license', 'Senior Developer', 'big games creator')
+  Objectives = ("Own Apartment", "Car Driving License", "Senior Developer", "big games creator");
 }
 ```
 <br /><br />
