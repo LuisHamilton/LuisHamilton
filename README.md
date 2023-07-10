@@ -6,13 +6,13 @@ namespace Developer;
 
 public class Developer.AboutMe {
   Name  = "Luis Hamilton Balem";
-  Level = 19;
+  Level = 20;
   Study  = "Software Engineering in Unicesumar Curitiba";
-  Work  = "Bosch Brasil's System Development Apprentice";  
+  Work  = "Bosch Brasil's System Development Instructor";  
 }
 
 public class Developer.Projects {
-  UnderDevelopment = ("Unity Game", "LPR System For Bosch Entrance", "Dealership App For Car Sale");
+  UnderDevelopment = ("Unity Games", "LPR System For Bosch Entrance", "Dealership App For Car Sale");
 }
 
 public class Developer.Hobbies {
