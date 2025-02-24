@@ -5,23 +5,24 @@
 namespace Developer;
 
 public class Developer.AboutMe {
-  Name  = "Luis Hamilton Balem";
-  Level = 21;
-  Study  = "Software Engineering in Unicesumar Curitiba";
-  Work  = "Bosch Brasil's BDO's Developer";  
-}
+  Name  = "Luis Hamilton Balem",
+  Level = 22,
+  Study  = "Software Engineering in Unicesumar Curitiba",
+  Work  = "Full-Stack Developer at Bosch Brazil"
+};
 
 public class Developer.Projects {
-  UnderDevelopment = ("Unity Games", "LPR System For Bosch Entrance", "IFM");
-}
+  UnderDevelopment = {"Unity Games", "ICOnnect"},
+  Done = { "Truckfy", "Remote Configurator", "DataXTract", "IFM" }
+};
 
 public class Developer.Hobbies {
-  hobbies  = ("Basketball", "Games", "Calisthenics", "Tabletop RPG");
-}
+  Hobbies  = {"Basketball", "Video Games", "Calisthenics", "Tabletop RPG" }
+};
 
 public class Developer.Objectives {
-  Objectives = ("Own Apartment", "Car Driving License", "Senior Developer", "big games creator");
-}
+  Objectives = {"Own Apartment", "Car Driving License", "Senior Developer", "famous game creator" }
+};
 ```
 <br /><br />
 
